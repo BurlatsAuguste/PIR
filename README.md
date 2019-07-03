@@ -26,7 +26,7 @@ emplacementJ2 est le chemin vers la sauvegarde du joueur 2
 nbrParties est le nombre de Parties
 
 MCP_vs_MCTS.py permet à une sauvegarde d'affronter le MCTS
-Pour le lancer il faut rentrer python MC_vs_MCTS.py emplacementSauvegarde J nbrParties
+Pour le lancer il faut rentrer python MCP_vs_MCTS.py emplacementSauvegarde J nbrParties
 emplacementSauvegarde est le chemin vers la sauvegarde
 J = 1 si vous voulez que le MCTS soit joueur 1, J = 2 si vous voulez qu'il soit joueur 2
 nbrParties est le nombre de Parties
@@ -36,7 +36,7 @@ Pour le lancer il faut rentrer python MonteCarloTreeSearch.py J
 J = 1 si vous voulez que le MCTS soit joueur 1, J = 2 si vous voulez qu'il soit joueur 2
 
 humain_vs_MCP.py permet à l'utilisateur d'affronter une sauvegarde
-Pour le lancer il faut rentrer python humain_vs_MC.py emplacementSauvegarde J
+Pour le lancer il faut rentrer python humain_vs_MCP.py emplacementSauvegarde J
 emplacementSauvegarde est le chemin vers la sauvegarde
 J =1 si l'utilisateur est joueur 1, j=2 s'il est joueur 2
 
