@@ -1,4 +1,7 @@
 # PIR
+
+Projet d'initiation à la recherche portant sur le reinforcement learning appliqué au jeux de Markov à somme nulle (jeu d'échec, jeu de Go, etc..), ici appliqué au Morpion.
+
 Guide d'utilisation:
 
 AlphaUno.py est mon programme inspiré de AlphaZero. Pour le lancer il suffit d'entrer la commande python AlphaUno.py
